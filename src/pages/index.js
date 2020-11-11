@@ -28,6 +28,9 @@ import "../components/Accordiom/index.css"
 
 
 
+
+
+
 const AccordionData = [
   {
       title: "Ecole Nationale Superieure des Mines Rabat  des Mines  ",
